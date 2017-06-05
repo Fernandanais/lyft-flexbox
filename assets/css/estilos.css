@@ -6,7 +6,8 @@
 nav{;
 	background-color: #76278f;
 	display: flex;
-	justify-content: flex-end
+	justify-content: flex-end;
+	
 }
 
 nav a{
@@ -17,4 +18,41 @@ nav a{
 nav img{
 	align-self: baseline;
 	padding-right: 50%;
+}
+
+footer{
+	background-color: #333447;
+	color: #fff;
+	padding-bottom: 40px;
+	
+	display: flex;
+}
+
+footer ul li{
+	list-style: none;	
+	padding: 20px;
+}
+
+h4{
+	padding: 30px;
+	padding-left: 60px;
+}
+
+.columna{
+	width: 100%;
+
+}
+.columna img{
+	width: 150px;
+}
+.circulo{
+	width: 40px;
+	height: 40px;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	text-align: center;
+
+}
+ .redes{
+	align-self: flex-end;
 }
