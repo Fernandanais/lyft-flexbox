@@ -22,6 +22,10 @@ nav img{
 	padding-right: 50%;
 }
 
+.caja{
+	padding: 30px;
+}
+
 section{
 	padding-top: 80px;	
 }
@@ -36,6 +40,7 @@ article p, h6, h2{
 	display: block;
 	text-align: left;
 }
+
 iframe{
 	display: flex;
 }
