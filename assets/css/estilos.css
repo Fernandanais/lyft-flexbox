@@ -1,13 +1,14 @@
 *{
 	margin: 0;
 	font-family: 'Montserrat', sans-serif;
-	
 }
+
 nav{;
 	background-color: #76278f;
+	width: 100%;
 	display: flex;
 	justify-content: flex-end;
-	
+	position: fixed;
 }
 
 nav a{
