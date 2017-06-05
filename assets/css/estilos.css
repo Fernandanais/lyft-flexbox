@@ -30,6 +30,11 @@ section p, h6, h2{
 	display: block;
 }
 
+article p, h6, h2{
+	width: 30%;
+	display: block;
+	text-align: left;
+}
 iframe{
 	display: flex;
 }
