@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	
+}
+nav{;
+	background-color: #76278f;
+	display: flex;
+	justify-content: flex-end
+}
+
+nav a{
+	text-decoration: none;
+	color: #fff;
+	padding: 20px;
+}
+nav img{
+	align-self: baseline;
+	padding-right: 50%;
+}
